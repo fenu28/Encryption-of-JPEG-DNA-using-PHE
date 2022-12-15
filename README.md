@@ -1,4 +1,4 @@
 paillier
 ========
 
-An implementation of Paillier cryptography in Python
+An implementation of encrypting DNA payloads of encoded JPEG images using partial homomorphic encryption in Python
